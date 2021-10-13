@@ -1,4 +1,4 @@
-# Print String
-print('Lorem Ipsum')
-# Print Number
-print(10579)
+# Print Mathematics
+num1 = 100
+num2 = 86
+print('Summation = ', num1+num2)
