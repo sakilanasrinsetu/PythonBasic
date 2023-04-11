@@ -6,3 +6,4 @@ print('Summation = ', type(num1))
 print('Division', type(num1 /5))
 print(type(lists))
 print(type(tuple_var))
+## Comment
